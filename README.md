@@ -1,1 +1,1 @@
-# QA
+# Photoalbum - Quality assurance bug reporting
